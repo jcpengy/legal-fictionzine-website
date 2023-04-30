@@ -1,18 +1,14 @@
 import {
-    View, Flex, Heading, Text, Link
+    View, Flex, Text
 } from '@adobe/react-spectrum'
 import React from 'react';
 import {Submissions} from '../data/submissions';
 import Submission from '../components/Submission';
 
 const Home = () => {
-    const issue = {
-        number: Submissions[0].issueNumber,
-        date: Submissions[0].issueDate
-    }
     return (
         <Flex id="wrapper" direction="column">
-            <View id="submissions">
+            <View id="content">
                 {
                     Submissions[0].entries.map(entry => (
                             <Submission key={entry.id} submission={entry}/>

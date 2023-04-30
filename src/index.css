@@ -11,6 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 #fixed-header {
   position: fixed;
   width: 100%;
@@ -22,7 +23,7 @@ code {
 
 }
 
-#submissions {
+#content {
   margin: 100px 0 100px 0;
 }
 

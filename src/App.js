@@ -6,13 +6,9 @@ import NavigationBar from "./components/NavigationBar";
 import {Submissions} from "./data/submissions";
 
 function App() {
-    const issue = {
-        number: Submissions[0].issueNumber,
-        date: Submissions[0].issueDate
-    }
     return (
         <div className="App">
-            <NavigationBar issue={issue}/>
+            <NavigationBar/>
             <Routes>
                 <Route path="/" element={ <Home/> } />
                 <Route path="about" element={ <About/> } />

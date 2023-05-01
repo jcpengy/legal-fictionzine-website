@@ -17,7 +17,7 @@ const About = () => {
                     legalfictionzine@gmail.com or find us at @legalfictionzine.<br/><br/>
                     <b>Note on the Type:</b> Our title page is typeset in Redaction, a font  commissioned by Titus Kaphar and Reginald Dwayne Betts for their 2019 exhibition at MOMA PS1, The Redaction. The font borrows from classic legal typography; its pixelation is meant to represent how the legal system erases the poor and incarcerated from public  consciousness.<br/><br/>
                     <b>Editors:</b> <span id="italicize">Dylan Onderdonk-Snow, Ntebo Mokuena,    Megan  Dougherty, Evan Molineux, Sarah Marron, Kristin Abram, Maheen Haq, Ella Helmuth, David Snower</span>
-                    <img id="submission-image-medium" key="about-image" src="/submission_images/img_4.png" alt="about the maga(zine)"/><br/>
+                    <img id="submission-image-medium" key="about-image" src="/images/img_4.png" alt="about the maga(zine)"/><br/>
                     <span id="italicize">The views expressed in this publication do not necessarily reflect those of the  administration, faculty, or student body of Georgetown University or Georgetown Law unless specifically stated.</span>
                 </div>
             </View>

@@ -29,7 +29,7 @@ const Home = () => {
             <View id="content">
                 {
                     Submissions[0].entries.map(entry => (
-                            <Submission key={entry.id} submission={entry}/>
+                            <Submission key={entry.id} submission={entry} issueNumber={currentIssue.number}/>
                         )
                     )
                 }

@@ -3,7 +3,7 @@ import {
 } from '@adobe/react-spectrum'
 import React from 'react';
 
-const Submission = ({submission}) => {
+const Submission = ({submission, issueNumber}) => {
     return (
         <View>
             <Heading id="submission-title" level={1}>{submission.title}</Heading>
@@ -13,7 +13,7 @@ const Submission = ({submission}) => {
             </div>
             {
                 submission.images.map(image => (
-                    <img id={"submission-image-" + image.size} key={image.url} src={"/submission_images/" + image.url} alt={image.alt}/>
+                    <img id={"submission-image-" + image.size} key={image.url} src={"/images/Issue " + issueNumber + "/" + image.url} alt={image.alt}/>
                 ))
             }
             <div id="submission-footnote">{submission.footnote}</div>

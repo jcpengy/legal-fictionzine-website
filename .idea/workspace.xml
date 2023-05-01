@@ -2,41 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5acb791-cac9-4af4-a806-8be73b8c4e14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/submission_images/abrams.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/azul_lares.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/lezp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/lezp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/martini2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/submission_images/peng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/cursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/BetonOpen-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Clearface-Serial Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Clearface-Serial RegularItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Junicode-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Junicode-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Junicode-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Junicode.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Lobster-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Redaction20-YzPy2.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Redaction20Bold-2ODWX.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Redaction20Italic-K7ZJe.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Redaction35-BWXjw.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/clearface-serial-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/BetonP-ExtBol.otf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/abrams.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/abrams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/azul_lares.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/azul_lares.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/greensaregood.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/greensaregood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/img_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/lares.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/lares.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/lettertoafriend.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/lettertoafriend.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/lezp.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/lezp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/lezp2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/lezp2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/martini.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/martini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/martini2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/martini2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/onthebeach.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/onthebeach.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/onthebeach_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/onthebeach_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/peng.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/peng.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission_images/smith.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Issue 0/smith.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/submissions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/submissions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Submission.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Submission.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,13 +73,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/public/submission_images/Issue 0" />
       <recent name="$PROJECT_DIR$/src/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -118,7 +114,7 @@
       <workItem from="1682808323990" duration="5912000" />
       <workItem from="1682815711056" duration="10706000" />
       <workItem from="1682830274101" duration="10696000" />
-      <workItem from="1682910820626" duration="3266000" />
+      <workItem from="1682910820626" duration="4042000" />
     </task>
     <servers />
   </component>

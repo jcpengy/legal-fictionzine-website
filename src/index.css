@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: Beton-Bold;
+  src: url(./fonts/BetonP-ExtBol.otf);
+}
+
+@font-face {
   font-family: Beton-Open-Regular;
   src: url(./fonts/BetonOpen-Regular.otf);
 }
@@ -82,7 +87,7 @@ body {
 }
 
 #about-title {
-  font-family: Beton-Open-Regular;
+  font-family: Beton-Bold;
   font-size: 5em;
 }
 

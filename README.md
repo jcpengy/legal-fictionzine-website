@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Legal Fictionzine Website 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by honorary member Jessica Peng:) Direct any questions to pengjess2@gmail.com.
 
-## Available Scripts
+## Run the app locally  
 
 In the project directory, you can run:
 
